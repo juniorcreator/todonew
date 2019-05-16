@@ -17,6 +17,7 @@ class EditUser extends Component {
     //
   };
   componentWillMount() {
+
     this.togleLoader();
   };
   componentDidMount() {
