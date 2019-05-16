@@ -1,0 +1,19 @@
+.Counter {
+  width: 300px;
+  border: 2px solid white;
+  padding: 8px;
+  margin: 0 0 15px 0;
+  border-radius: 20px;
+  box-shadow: 0 0 0px 4px black;
+  transition: all .4s;
+}
+.Counter .badge {
+  font-size: 100%;
+}
+.Counter h6 {
+  color: #fff;
+  font-weight: bold;
+}
+.Counter:hover {
+  box-shadow: 0 0 0px 4px lightcoral;
+}

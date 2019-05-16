@@ -1,0 +1,8 @@
+.Layout {
+  max-width: 900px;
+  margin: auto;
+  box-sizing: border-box;
+  padding: 20px;
+  background: linear-gradient(to right, rgb(170, 75, 107), rgb(107, 107, 131), rgb(59, 141, 153));
+  min-height: 100vh;
+}

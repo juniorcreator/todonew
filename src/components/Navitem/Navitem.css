@@ -1,0 +1,14 @@
+.Navitem {
+  list-style: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0 5px;
+}
+.Navitem a {
+  color: #fff;
+  text-decoration: none;
+}
+.Navitem a.active, .Navitem a:hover {
+  color: mediumpurple;
+  text-decoration: none;
+}

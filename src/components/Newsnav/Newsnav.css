@@ -1,0 +1,15 @@
+.Newsnav ul  {
+  list-style-type: none;
+}
+.Newsnav ul li a {
+  color: #fff;
+  font-weight: bold;
+  transition: all .2s;
+  text-decoration: none;
+}
+.Newsnav ul li a:hover {
+  color: darksalmon;
+}
+.Newsnav ul li a.active {
+  color: darksalmon;
+}

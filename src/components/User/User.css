@@ -1,0 +1,17 @@
+.User {
+  
+}
+.User li {
+  display: flex;
+  margin-bottom: 5px !important;
+}
+.User .photo {
+  margin-right: 15px;
+}
+.User .buttons {
+  margin-left: auto;
+}
+.User .photo img{
+  max-width: 70px;
+  border-radius: 50%;
+}
